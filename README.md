@@ -7,7 +7,7 @@
 - TensorBoard  
 - NumPy
 
-(Optional):  
+(Optional):
 - Detectron2  
 - Spotlight  
 

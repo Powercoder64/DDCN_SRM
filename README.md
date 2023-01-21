@@ -18,7 +18,7 @@ We provide you the download links for the data and the pre-trained models.
 For the OAD dataset download the data from [here](https://drive.google.com/file/d/1gVPZqDGZcQPLoxkRabi6b4NN09tIpszL/view?usp=sharing) and download the model from [here](https://drive.google.com/file/d/1tHmqnFbKi3UpEvAZTsSo6An969xTWp99/view?usp=sharing).   
 
 
-Please extract the .zip files and copy the downloaded *data* and *model* folders the the root folder of the source codes and fix the paths in *run_script_OAD.py* accordingly. 
+Please extract the .zip files and copy the downloaded *data* and *model* folders to the the root folder of the source codes and fix the paths in *run_script_OAD.py* accordingly. 
 
 We provide you the offline semantic reference attributes, *off_sem_ref_attr_OAD.npy*, and semantic reference scores, *sem_ref_scr_OAD.npy*.  
 

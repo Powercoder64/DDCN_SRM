@@ -11,7 +11,7 @@ NumPy
 detectron2  
 spotlight  
 
-Please run *run_script_OAD.py* to output the action detection performance (F1 score) for different Observation Ratios and modules (DDCN and SRM) on the OAD dataset.  
+Please run the file *run_script_OAD.py* to output the action detection performance (F1 score) for different Observation Ratios and modules (DDCN and SRM) on the OAD dataset.  
 
 
 We provide you the download links for data and the pre-trained model for the OAD dataset here:  

@@ -3,8 +3,8 @@
 
 **Prerequisites**
 
-Pytorch > 1.4
-TensorBoard
+Pytorch > 1.4  
+TensorBoard  
 NumPy
 
 (Optional)

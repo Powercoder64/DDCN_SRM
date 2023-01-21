@@ -20,9 +20,9 @@ For the OAD dataset download the data from [here](https://drive.google.com/file/
 
 Please extract the .zip files and copy the downloaded ```data``` and ```model``` folders to the the root folder of the source codes and fix the paths in ```run_script_OAD.py``` accordingly. 
 
-We provide you the *offline semantic reference attributes*, ```off_sem_ref_attr_OAD.npy```, and *semantic reference scores*, ```sem_ref_scr_OAD.npy```.  
+We provide you the *offline semantic reference attributes*, ```off_sem_ref_attr_OAD.npy```, and the *semantic reference scores*, ```sem_ref_scr_OAD.npy```.  
 
-If you want to obtain the above SRM outputs manually, please use the following files in the ```utils``` folder:  
+If you want to obtain the above SRM outputs manually, please use the following codes in the ```utils``` folder:  
 
 ```convert_to_sem_ref_attr.py```: to convert the OAD data to *semantic reference attributes*.  
 ```convert_to_sem_ref_scr.py```: to convert the *semantic reference attributes* to *semantic reference scores*, using recommendations systems.  

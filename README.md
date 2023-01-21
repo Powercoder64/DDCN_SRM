@@ -24,7 +24,7 @@ We provide you the *offline semantic reference attributes*, ```off_sem_ref_attr_
 
 If you want to obtain the above SRM outputs manually, please use the following files in the ```utils``` folder:  
 
-```convert_to_sem_ref_attr.py```: to onvert the OAD data to *semantic reference attributes*.  
+```convert_to_sem_ref_attr.py```: to convert the OAD data to *semantic reference attributes*.  
 ```convert_to_sem_ref_scr.py```: to convert the *semantic reference attributes* to *semantic reference scores*, using recommendations system: IMF and others.  
 You need the *Detectron2* and *Spotlight* libraries for the above. 
 

@@ -15,7 +15,7 @@ Please run the file *run_script_OAD.py* to output the action detection performan
 
 
 We provide you the download links for the data and the pre-trained models. For the OAD dataset the download links are here:  
-[OAD_data](https://drive.google.com/file/d/1gVPZqDGZcQPLoxkRabi6b4NN09tIpszL/view?usp=sharing)       [DDCN_model_OAD](https://drive.google.com/file/d/1tHmqnFbKi3UpEvAZTsSo6An969xTWp99/view?usp=sharing).  
+[OAD_data](https://drive.google.com/file/d/1gVPZqDGZcQPLoxkRabi6b4NN09tIpszL/view?usp=sharing)  ..... [DDCN_model_OAD](https://drive.google.com/file/d/1tHmqnFbKi3UpEvAZTsSo6An969xTWp99/view?usp=sharing).  
 
 Please extract the zip files and copy the downloaded *data* and *model* folders the the root folder of the source codes and fix the paths in *run_script_OAD.py* accordingly. 
 

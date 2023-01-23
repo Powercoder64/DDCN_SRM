@@ -28,7 +28,7 @@ Please run ```Python run_script_OAD.py``` to output the action detection perform
 
 **Using SRM manually:**
 
-We provide you the *SRM* outputs, *offline semantic reference attributes*, ```off_sem_ref_attr_OAD.npy```, and the *semantic reference scores*, ```sem_ref_scr_OAD.npy```.  
+We provide you the *SRM* outputs, *offline semantic reference attributes*, ```off_sem_ref_attr_OAD.npy```, and the *semantic reference scores*, ```sem_ref_scr_OAD.npy``` above.  
 
 If you want to obtain the above *SRM* outputs manually, please use the following codes in the ```SRM``` folder:  
 

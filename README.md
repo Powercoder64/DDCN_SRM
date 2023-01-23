@@ -22,7 +22,7 @@ Please extract the .zip files and copy the downloaded ```data``` and ```model```
 
 We provide you the *offline semantic reference attributes*, ```off_sem_ref_attr_OAD.npy```, and the *semantic reference scores*, ```sem_ref_scr_OAD.npy```.  
 
-If you want to obtain the above SRM outputs manually, please use the following codes in the ```utils``` folder:  
+If you want to obtain the above SRM outputs manually, please use the following codes in the ```SRM``` folder:  
 
 ```convert_to_sem_ref_attr_OAD.py```: to convert the OAD data to *semantic reference attributes*.  
 ```convert_to_sem_ref_scr_OAD.py```: to convert the *semantic reference attributes* to *semantic reference scores*, using *recommendation systems*.  

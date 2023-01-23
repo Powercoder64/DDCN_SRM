@@ -5,8 +5,6 @@
 
 - Pytorch > 1.6  
 - TensorBoard  
-- NumPy
-- Deepcopy
 
 (Optional):
 - Detectron2  

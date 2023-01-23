@@ -3,7 +3,7 @@
 
 **Prerequisites:**
 
-- Pytorch > 1.4  
+- Pytorch > 1.6  
 - TensorBoard  
 - NumPy
 - Deepcopy

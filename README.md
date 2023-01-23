@@ -1,7 +1,7 @@
 # Rrepository for Semantics-enhanced Early Action Detection using Dynamic Dilated Convolution
 
 
-**Dependencies:**
+**Installing dependencies:**
 
 - Pytorch > 1.6  
 - TensorBoard  

@@ -11,7 +11,7 @@
 - Detectron2  
 - Spotlight  
 
-Please run ```Python run_script_OAD.py``` to output the action detection performances (F1 scores) for different Observation Ratios and modules (DDCN and SRM) on the OAD dataset.  
+Please run ```Python run_script_OAD.py``` to output the action detection performances (F1 scores) for different Observation Ratios and modules (DDCN and SRM) on the [OAD](https://www.icst.pku.edu.cn/struct/Projects/OAD.html) dataset.  
 
 
 We provide you the download links for the data and the pre-trained models. 
@@ -27,6 +27,6 @@ If you want to obtain the above SRM outputs manually, please use the following c
 ```convert_to_sem_ref_attr_OAD.py```: to convert the OAD data to *semantic reference attributes*.  
 ```convert_to_sem_ref_scr_OAD.py```: to convert the *semantic reference attributes* to *semantic reference scores*, using *recommendation systems*.  
 
-You need the *Detectron2* and *Spotlight* libraries for the above manual conversion. 
+You need the [Detectron2](https://github.com/facebookresearch/detectron2) and [Spotlight](https://github.com/maciejkula/spotlight) libraries for the above manual conversion. 
 
 The source codes and data for PKU-MMD dataset will be released soon. 

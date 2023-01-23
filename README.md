@@ -10,7 +10,7 @@
 (Optional):
 - Detectron2  
 - Spotlight  
-- OpenCv
+- OpenCV
 
 Please run ```Python run_script_OAD.py``` to output the action detection performances (F1 scores) for different Observation Ratios and modules (DDCN and SRM) on the [OAD](https://www.icst.pku.edu.cn/struct/Projects/OAD.html) dataset.  
 

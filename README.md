@@ -14,7 +14,7 @@ Prerequisites:
 - OpenCV
 
 Use the following codes to install the dependencies:
-- ```pip install torch==1.7.1+cu101 torchvision==0.8.2+cu101 torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.html```
+- ```conda install pytorch==1.7.0 torchvision==0.8.0 torchaudio==0.7.0 cudatoolkit=11.0 -c pytorch```
 - ```pip install tensorboard==2.4.0```
 - ```pip install scikit-learn==1.0.2```
 

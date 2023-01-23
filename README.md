@@ -11,6 +11,11 @@
 - Spotlight  
 - OpenCV
 
+Use the following codes to install the dependencies:
+- ```pip install torch==1.7.1+cu101 torchvision==0.8.2+cu101 torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.html```
+- ```pip install tensorboard==2.4.0```
+
+
 Please run ```Python run_script_OAD.py``` to output the action detection performances (F1 scores) for different Observation Ratios and modules (DDCN and SRM) on the [OAD](https://www.icst.pku.edu.cn/struct/Projects/OAD.html) dataset.  
 
 

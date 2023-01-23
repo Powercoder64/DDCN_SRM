@@ -28,6 +28,6 @@ If you want to obtain the above *SRM* outputs manually, please use the following
 ```convert_to_sem_ref_attr_OAD.py```: to convert the OAD data to *semantic reference attributes*.  
 ```convert_to_sem_ref_scr_OAD.py```: to convert the *semantic reference attributes* to *semantic reference scores*, using *recommendation systems*.  
 
-You need the [Detectron2](https://github.com/facebookresearch/detectron2) and [Spotlight](https://github.com/maciejkula/spotlight) libraries for the above manual conversion. 
+You need the [Detectron2](https://github.com/facebookresearch/detectron2), [Spotlight](https://github.com/maciejkula/spotlight), and [OpenCV](https://pypi.org/project/opencv-python/) libraries for the above manual conversion. 
 
 The source codes and data for PKU-MMD dataset will be released soon. 

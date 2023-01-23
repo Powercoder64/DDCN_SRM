@@ -30,7 +30,7 @@ Please run ```Python run_script_OAD.py``` to output the action detection perform
 
 We provide you the *SRM* outputs, *offline semantic reference attributes*, ```off_sem_ref_attr_OAD.npy```, and the *semantic reference scores*, ```sem_ref_scr_OAD.npy``` above.  
 
-If you want to obtain the above *SRM* outputs manually, please use the following codes in the ```SRM``` folder:  
+If you want to obtain the *SRM* outputs manually, please use the following codes in the ```SRM``` folder:  
 
 ```convert_to_sem_ref_attr_OAD.py```: to convert the OAD data to *semantic reference attributes*.  
 ```convert_to_sem_ref_scr_OAD.py```: to convert the *semantic reference attributes* to *semantic reference scores*, using *recommendation systems*.  

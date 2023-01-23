@@ -5,8 +5,8 @@
 
 Prerequisites:   
 - Pytorch > 1.6 
-- Scikit-learn
 - TensorBoard  
+- Scikit-learn
 
 (Optional):
 - Detectron2  

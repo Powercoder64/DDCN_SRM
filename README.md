@@ -3,6 +3,7 @@
 
 **Installing dependencies:**
 
+Prerequisites:   
 - Pytorch > 1.6  
 - TensorBoard  
 

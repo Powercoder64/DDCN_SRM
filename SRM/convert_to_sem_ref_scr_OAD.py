@@ -9,8 +9,8 @@ from spotlight.sequence.implicit import ImplicitSequenceModel
 from spotlight.datasets.synthetic import generate_sequential
 import torch
 
-array = np.load('off_sem_ref_attr_OAD', allow_pickle=True)
-objects = np.load('sem_lst_OAD.npy', allow_pickle=True)
+array = np.load('off_sem_ref_attr_OAD', allow_pickle=True) # add the path for offline semantic reference attributes from the previous step
+objects = np.load('sem_lst_OAD.npy', allow_pickle=True) # add the path for the provided list of semantics
 
 rating = []
 user = []

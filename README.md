@@ -1,4 +1,4 @@
-# Rrepository for Semantics-enhanced Early Action Detection using Dynamic Dilated Convolution
+# Repository for Semantics-enhanced Early Action Detection using Dynamic Dilated Convolution
 
 
 **Installing dependencies:**

@@ -13,7 +13,7 @@ Prerequisites:
 - Spotlight  
 - OpenCV
 
-Use the following codes to install the dependencies:
+Use the following codes to install the main dependencies:
 - ```conda install pytorch==1.7.0 torchvision==0.8.0 torchaudio==0.7.0 cudatoolkit=11.0 -c pytorch```
 - ```pip install tensorboard==2.4.0```
 - ```pip install scikit-learn==1.0.2```

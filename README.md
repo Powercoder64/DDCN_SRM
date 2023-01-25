@@ -40,4 +40,4 @@ If you want to obtain the *SRM* outputs manually, please use the following codes
 
 You need the [Detectron2](https://github.com/facebookresearch/detectron2), [Spotlight](https://github.com/maciejkula/spotlight), and [OpenCV](https://pypi.org/project/opencv-python/) libraries for the above manual conversion. 
 
-... The source codes and data for *PKU-MMD* dataset will be released soon. 
+The source codes and data for *PKU-MMD* dataset will be released soon...

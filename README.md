@@ -42,7 +42,8 @@ If you want to obtain the *SRM* outputs manually, please use the following codes
 
 You need the [Detectron2](https://github.com/facebookresearch/detectron2), [Spotlight](https://github.com/maciejkula/spotlight), and [OpenCV](https://pypi.org/project/opencv-python/) libraries for the above manual conversion. 
 
-**Results on the PKU-MMD dataset:**
+**Results on the PKU-MMD dataset:**   
+
 For the [PKU-MMD](https://www.icst.pku.edu.cn/struct/Projects/PKUMMD.html) dataset download the data from [here](https://drive.google.com/file/d/1WxL5emkbwOUr_5ceQvq98dTC71AQVbRt/view?usp=sharing) and download the model from [here](https://drive.google.com/file/d/1-pOiHugpedRI3e9FDXBWfhlRszVTNgbi/view?usp=sharing).  
 The data is from the *Cross-Subject Evaluation* set.  
 

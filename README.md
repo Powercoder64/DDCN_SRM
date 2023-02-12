@@ -18,6 +18,8 @@ Use the following codes to install the main dependencies:
 - ```pip install tensorboard==2.4.0```
 - ```pip install scikit-learn==1.0.2```
 
+**Results on the OAD dataset:**
+
 **Preparing data:**
 
 We provide you the download links for the data and the pre-trained models. 
@@ -40,4 +42,12 @@ If you want to obtain the *SRM* outputs manually, please use the following codes
 
 You need the [Detectron2](https://github.com/facebookresearch/detectron2), [Spotlight](https://github.com/maciejkula/spotlight), and [OpenCV](https://pypi.org/project/opencv-python/) libraries for the above manual conversion. 
 
-The source codes and data for *PKU-MMD* dataset will be released soon...
+**Results on the PKU-MMD dataset:**
+For the [PKU-MMD](https://www.icst.pku.edu.cn/struct/Projects/PKUMMD.html) dataset download the data from [here](https://drive.google.com/file/d/1WxL5emkbwOUr_5ceQvq98dTC71AQVbRt/view?usp=sharing) and download the model from [here](https://drive.google.com/file/d/1-pOiHugpedRI3e9FDXBWfhlRszVTNgbi/view?usp=sharing).  
+The data is from the *Cross-Subject Evaluation* set.  
+
+Please extract the .zip files and copy the downloaded ```data``` and ```model``` folders to the the root folder of the source codes and fix the paths in ```run_script_PKU.py``` accordingly.    
+
+Please run ```Python run_script_PKU.py``` to output the action detection performances (F1 scores) for different Observation Ratios on the *PKU* dataset.  
+
+

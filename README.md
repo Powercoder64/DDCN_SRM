@@ -74,7 +74,6 @@ If you find this repository useful please cite us:
   publisher={Elsevier}
   }
   
-  
-  
+    
   Korban, Matthew, and Xin Li. "Semantics-enhanced Early Action Detection using Dynamic Dilated Convolution." Pattern Recognition (2023): 109595.
 

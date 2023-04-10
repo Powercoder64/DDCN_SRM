@@ -1,5 +1,15 @@
 # Repository for Semantics-enhanced Early Action Detection using Dynamic Dilated Convolution
 
+![aaaa](https://user-images.githubusercontent.com/59813678/230926803-948c2bfa-cb58-4c48-8e55-621dad4ed2a2.png)
+
+
+
+**Abstract**: *This paper proposes a new pipeline to perform early action detection from skeleton-based untrimmed videos. Our pipeline includes two new technical components. The first is a new Dynamic Dilated Convolutional Network (DDCN), which supports dynamic temporal sampling and makes feature learning more robust against temporal scale variance in action sequences. 
+The second is a new semantic referencing module, which uses identified objects in the scene and their co-existence relationship with actions to adjust the probabilities of inferred actions. Such semantic guidance can help distinguish many ambiguous actions, which is a core challenge in the early detection of incomplete actions. Our pipeline achieves state-of-the-art performance in early action detection in two widely used skeleton-based untrimmed video benchmarks.*
+
+
+Please look at our Pattern Recognition paper:
+[Link to our paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002960)
 
 **Installing dependencies:**
 
@@ -51,4 +61,17 @@ Please extract the .zip files and copy the downloaded ```data``` and ```model```
 
 Please run ```Python run_script_PKU.py``` to output the action detection performances (F1 scores) for different Observation Ratios on the *PKU* dataset.  
 
+**Reference**
+
+If you find this repository useful please cite us:
+
+``` @article{korban2023DDCN,
+  title={Semantics-enhanced Early Action Detection using Dynamic Dilated Convolution},
+  author={Korban, Matthew and Li, Xin},
+  journal={Pattern Recognition},
+  pages={109595},
+  year={2023},
+  publisher={Elsevier}
+  
+  Korban, Matthew, and Xin Li. "Semantics-enhanced Early Action Detection using Dynamic Dilated Convolution." Pattern Recognition (2023): 109595.
 

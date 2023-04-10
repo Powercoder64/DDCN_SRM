@@ -1,4 +1,4 @@
-# Repository for Semantics-enhanced Early Action Detection using Dynamic Dilated Convolution
+# Repository for Semantics-enhanced Early Action Detection using Dynamic Dilated Convolution [(Pattern Recognition Paper)](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002960)
 
 ![aaaa](https://user-images.githubusercontent.com/59813678/230926803-948c2bfa-cb58-4c48-8e55-621dad4ed2a2.png)
 

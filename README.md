@@ -65,6 +65,7 @@ Please run ```Python run_script_PKU.py``` to output the action detection perform
 
 If you find this repository useful please cite us:
 
+```
 @article{korban2023DDCN,
   title={Semantics-enhanced Early Action Detection using Dynamic Dilated Convolution},
   author={Korban, Matthew and Li, Xin},
@@ -73,7 +74,10 @@ If you find this repository useful please cite us:
   year={2023},
   publisher={Elsevier}
   }
+  ```
   
-    
+  ```
   Korban, Matthew, and Xin Li. "Semantics-enhanced Early Action Detection using Dynamic Dilated Convolution." Pattern Recognition (2023): 109595.
+  ```
+
 

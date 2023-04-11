@@ -61,7 +61,7 @@ Please extract the .zip files and copy the downloaded ```data``` and ```model```
 
 Please run ```Python run_script_PKU.py``` to output the action detection performances (F1 scores) for different Observation Ratios on the *PKU* dataset.  
 
-**Reference:**
+**Citation:**
 
 If you find this repository useful please cite us:
 
